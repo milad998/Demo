@@ -1,7 +1,7 @@
-package com.milad.demo.service
+package com.example.milad.demo.service
 
-import com.milad.demo.model.User
-import com.milad.demo.repository.UserRepository
+import com.example.milad.demo.model.User
+import com.example.milad.demo.repository.UserRepository
 import org.springframework.stereotype.Service
 
 @Service
