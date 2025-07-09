@@ -1,4 +1,4 @@
-package com.milad.demo.controller
+package com.example.milad.demo.controller
 
 import com.milad.demo.model.User
 import com.milad.demo.service.UserService
