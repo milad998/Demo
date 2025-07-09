@@ -1,7 +1,7 @@
 package com.example.milad.demo.controller
 
-import com.milad.demo.model.User
-import com.milad.demo.service.UserService
+import com.example.milad.demo.model.User
+import com.example.milad.demo.service.UserService
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 
