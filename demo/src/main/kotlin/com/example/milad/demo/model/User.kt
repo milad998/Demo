@@ -1,4 +1,4 @@
-package com.milad.demo.model
+package com.example.milad.demo.model
 
 import jakarta.persistence.*
 import java.util.*
